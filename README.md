@@ -1,4 +1,4 @@
-# Python twitter 图片和视频爬虫
+# Python instagram 图片和视频爬虫
 
 ## 配置文件
     common/config.ini
